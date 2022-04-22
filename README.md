@@ -1,6 +1,6 @@
 # HSV_color_picker
 
-This tutorial returns HSV values (lower, upper) at a clicked pixel. 
+This tutorial helps user find HSV values (lower, upper) at a pixel by clicking on HSV images. 
 
 Also, adjusting the trackbars to see different results
 
